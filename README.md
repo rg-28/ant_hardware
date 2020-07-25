@@ -3,7 +3,7 @@ Trying to create an autonomous bot using Raspberry Pi and Arduino Mega with othe
 
 Integrated various hardware modules with ROS (like motors, encoders, camera etc.)
 
-Code for for the following cases:
+Code for the following cases:
 
 * **ros_encoders_embed** - Embedded C code for integrating motor encoders with Arduino Mega and send the data to the server (or main computer) through ROS.
 
